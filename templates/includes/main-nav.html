@@ -17,10 +17,10 @@
                 Cakes
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Parties</a>
-                <a href="" class="dropdown-item">Weddings</a>
-                <a href="" class="dropdown-item">Traditionals</a>
-                <a href="" class="dropdown-item">All Cakes</a>
+                <a href="{% url 'products' %}?category=parties" class="dropdown-item">Parties</a>
+                <a href="{% url 'products' %}?category=weddings" class="dropdown-item">Weddings</a>
+                <a href="{% url 'products' %}?category=traditional" class="dropdown-item">Traditional</a>
+                <a href="{% url 'products' %}?category=parties,weddings,traditional" class="dropdown-item">All Cakes</a>
             </div>
         </li>
 
@@ -29,9 +29,9 @@
                 Vegan Products
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Cakes</a>
-                <a href="" class="dropdown-item">Breads</a>
-                <a href="" class="dropdown-item">All Vegan</a>
+                <a href="{% url 'products' %}?category=cakes" class="dropdown-item">Cakes</a>
+                <a href="{% url 'products' %}?category=bread" class="dropdown-item">Breads</a>
+                <a href="{% url 'products' %}?category=cakes,bread" class="dropdown-item">All Vegan</a>
             </div>
         </li>
 
@@ -40,10 +40,10 @@
                 Special Offers
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">Cookies</a>
-                <a href="" class="dropdown-item">Deals</a>
-                <a href="" class="dropdown-item">Cupcakes</a>
-                <a href="" class="dropdown-item">All Specials</a>
+                <a href="{% url 'products' %}?category=cookies" class="dropdown-item">Cookies</a>
+                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
+                <a href="{% url 'products' %}?category=cupcakes" class="dropdown-item">Cupcakes</a>
+                <a href="{% url 'products' %}?category=cookies,deals,cupcakes" class="dropdown-item">All Specials</a>
             </div>
         </li>
     </ul>
