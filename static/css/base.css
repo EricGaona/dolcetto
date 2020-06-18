@@ -69,7 +69,11 @@ body {
 	background: white;
 	z-index: -1;
 }
-
+    /* this for the categories buttons in products page */
+a.category-badge > span.badge:hover {
+    background: #212529 !important;
+    color: #fff !important;
+}
 
 /* -------------------------------- Media Queries */
 
