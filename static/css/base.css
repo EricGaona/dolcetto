@@ -3,13 +3,19 @@ html {
 }
 
 body {
-    background: url('/media/homepage_background_cropped.jpg') no-repeat center center fixed;
+    background: url('/media/img_homepage.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
     font-family: 'Lato';
 }
-
+/*    -------      fixed visualization in the h1 */
+#cake-h1{
+    display: inline-block;
+    background-color: rgb(255, 255, 255, 0.3);
+    font-weight: bold;
+    color: black;    
+}
 /* ----    from Bulma - awesome icons  ------*/
 .icon {
     align-items: center;
