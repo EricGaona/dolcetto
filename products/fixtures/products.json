@@ -4,13 +4,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp101",
-      "name": "Party 1",
-      "description": "party 1 description",
-      "price": 23.99,
+      "name": "Sponge Cake",
+      "description": "This is a classic European sponge cake.",
+      "price": 50.00,
       "category": 1,
       "rating": 4.6,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img1c.jpg"
+      "image": "img1p.jpg"
     }
   },
   {
@@ -18,13 +18,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp102",
-      "name": "Party 2",
-      "description": "party 2 description",
-      "price": 33.99,
+      "name": "Football Fitch",
+      "description": "Sponge cake covered with green vanilla cream and decorate into a football pitch.",
+      "price": 65.00,
       "category": 1,
       "rating": 4.7,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img2c.jpg"
+      "image": "img2p.jpg"
     }
   }, 
   {
@@ -32,13 +32,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp103",
-      "name": "Party 3",
-      "description": "party 3 description",
-      "price": 43.99,
+      "name": "kids Cake",
+      "description": "Impressive construction site birthday cake, with a few toys, some chocolate coated wafer bars.",
+      "price": 60.00,
       "category": 1,
       "rating": 4.8,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img3c.jpg"
+      "image": "img3p.jpg"
     }
   }, 
   {
@@ -46,13 +46,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp104",
-      "name": "Party 4",
-      "description": "party 4 description",
-      "price": 53.99,
+      "name": "Vanilla Cake",
+      "description": "Cover the light buttery sponge of this classic celebration cake with silky-smooth meringue buttercream and colourful edible polka dots",
+      "price": 55.00,
       "category": 1,
-      "rating": 4.9,
+      "rating": 4.8,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img4c.jpg"
+      "image": "img4p.jpg"
     }
   }, 
   {
@@ -60,13 +60,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp105",
-      "name": "wegging",
-      "description": "wedding 1 description",
-      "price": 205.99,
+      "name": "Wedding Cake three-tier",
+      "description": "This beautiful wedding cake features three different flavors (lemon, chocolate, and strawberry) paired with Swiss meringue.",
+      "price": 120.00,
       "category": 2,
       "rating": 4.7,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img1p.jpg"
+      "image": "img1w.jpg"
     }
   },
   {
@@ -74,13 +74,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp106",
-      "name": "traditional",
-      "description": "traditional 1 description",
-      "price": 105.99,
-      "category": 3,
-      "rating": 4.7,
+      "name": "Rozanne's Wedding Cake",
+      "description": "Lovely three tier wedding cake with pulled buttercream edges and some roses.",
+      "price": 120.00,
+      "category": 2,
+      "rating": 4.8,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img1m.jpg"
+      "image": "img2w.jpg"
     }
   },
   {
@@ -88,13 +88,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp107",
-      "name": "deals 1",
-      "description": "deals 1 description",
-      "price": 105.99,
-      "category": 4,
+      "name": "Rozanne's Wedding Cake three-tier",
+      "description": "This beautiful wedding cake features three different flavors (orange, vanilla, and strawberry) and some roses.",
+      "price": 130.00,
+      "category": 2,
       "rating": 4.7,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img1h.jpg"
+      "image": "img3w.jpg"
     }
   },
   {
@@ -102,13 +102,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp108",
-      "name": "deals 2",
-      "description": "deals 2 description",
-      "price": 55.99,
-      "category": 4,
-      "rating": 4.6,
+      "name": "Wedding Cake two-tier",
+      "description": "Lovely two tier wedding cake covered with vanilla cream and delicious caramel syrup.",
+      "price": 100.00,
+      "category": 2,
+      "rating": 4.8,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img2h.jpg"
+      "image": "img4w.jpg"
     }
   },
   {
@@ -116,10 +116,10 @@
     "model": "products.product",
     "fields": {
       "sku": "pp109",
-      "name": "cookies 1",
-      "description": "cookies 1 description",
-      "price": 15.99,
-      "category": 5,
+      "name": "Strawberry Cake",
+      "description": "This fresh strawberry cake is made from FRESH strawberry reduction! The cake is moist and tender with a beautiful pink color.",
+      "price": 40.00,
+      "category": 3,
       "rating": 4.6,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
       "image": "img1t.jpg"
@@ -130,10 +130,10 @@
     "model": "products.product",
     "fields": {
       "sku": "pp110",
-      "name": "cookies 2",
-      "description": "cookies 2 description",
-      "price": 5.99,
-      "category": 5,
+      "name": "Chocolate Cake",
+      "description": "This is a delicious light sponge chocolate cake and rich buttercream filling.",
+      "price": 45.00,
+      "category": 3,
       "rating": 4.6,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
       "image": "img2t.jpg"
@@ -144,13 +144,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp111",
-      "name": "cupcake 1",
-      "description": "cupcake 1 description ",
-      "price": 232.99,
-      "category": 6,
-      "rating": 5,
+      "name": "Carrot Cake",
+      "description": "It's deeply moist and filled with toasted pecans. Most of its flavor comes from brown sugar, cinnamon, ginger, nutmeg, and carrots.",
+      "price": 30.00,
+      "category": 3,
+      "rating": 4.8,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img1a.jpg"
+      "image": "img3t.jpg"
     }
   },
   {
@@ -158,13 +158,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp112",
-      "name": "cupcake 2",
-      "description": "cupcake 2 description ",
-      "price": 32.99,
-      "category": 6,
+      "name": "Strawberry Cheesecake",
+      "description": "This Strawberry Cheesecake features a creamy cheesecake on a graham cracker crust topped with fresh strawberry sauce.",
+      "price": 35.00,
+      "category": 3,
       "rating": 4.8,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img2a.jpg"
+      "image": "img4t.jpg"
     }
   },
    {
@@ -172,13 +172,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp113",
-      "name": "cakes 1",
-      "description": "cakes 1 description ",
-      "price": 22.99,
-      "category": 7,
+      "name": "Christmas Cake",
+      "description": "Traditional Christmas cake bursting with boozy fruit and covered with a delicious cream.",
+      "price": 45.00,
+      "category": 4,
       "rating": 4.8,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img1b.jpg"
+      "image": "img1d.jpg"
     }
   },
   {
@@ -186,13 +186,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp114",
-      "name": "cakes 2",
-      "description": "cakes 2 description ",
-      "price": 52.99,
-      "category": 7,
+      "name": "Easter Cake",
+      "description": "This is a bun made from a sweet toroid dough garnished with candied fruit slices.",
+      "price": 20.00,
+      "category": 4,
       "rating": 4.9,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img2b.jpg"
+      "image": "img2d.jpg"
     }
   },
    {
@@ -200,13 +200,225 @@
     "model": "products.product",
     "fields": {
       "sku": "pp115",
-      "name": "bread",
-      "description": "bread description ",
-      "price": 42.99,
-      "category": 8,
+      "name": "Christmas Bread",
+      "description": "perfect for the holidays.",
+      "price": 5.00,
+      "category": 4,
+      "rating": 4.6,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img3d.jpg"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp116",
+      "name": "Chocolate Cookie",
+      "description": "Crispy and delicious chocolate cookie with pieces of chocolate on top.",
+      "price": 1.10,
+      "category": 5,
       "rating": 4.9,
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "img1j.jpg"
+      "image": "img1co.jpg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp117",
+      "name": "Butter Cookie",
+      "description": "Crispy and delicious butter cookie with pieces of chocolate on top.",
+      "price": 1.00,
+      "category": 5,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img2co.jpg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp118",
+      "name": "Oatmeal Cookie",
+      "description": "This is a smooth and tasty oatmeal cookie with a touch of honey.",
+      "price": 1.20,
+      "category": 5,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img3co.jpg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp119",
+      "name": "Strawberry and Vanilla Cupcakes ",
+      "description": "Soft and fluffy strawberry cupcakes with creamy vanilla.",
+      "price": 2.00,
+      "category": 6,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img1cu.jpg"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp120",
+      "name": "Chocolate and Vanilla Cupcakes",
+      "description": "Soft and fluffy chocolate cupcakes with creamy vanilla.",
+      "price": 2.00,
+      "category": 6,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img2cu.jpg"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp121",
+      "name": "Rainbow Cupcake",
+      "description": "Rainbow Cupcakes with fluffy cloud-like vanilla frosting that is guaranteed to make anyone who sees them smile.",
+      "price": 2.00,
+      "category": 6,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img3cu.jpg"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp122",
+      "name": "Vegan Carrot Cake",
+      "description": "The cake is moist, tender, and filled with warm, spiced flavor from cinnamon, nutmeg, and vanilla extract.",
+      "price": 35.00,
+      "category": 7,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img1vc.jpg"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp123",
+      "name": "Vegan Chocolate Cake",
+      "description": "The best vegan chocolate cake topped with the richest silkiest vegan chocolate buttercream frosting.",
+      "price": 50.00,
+      "category": 7,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img2vc.jpg"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp124",
+      "name": "Vegan Chocolate Brownies",
+      "description": "Gooey, nutty and seriously chocolaty, these vegan brownies are a total joy to eat.",
+      "price": 45.00,
+      "category": 7,
+      "rating": 4.9,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img3vc.jpg"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp125",
+      "name": "Vegan Wild Berry Cake",
+      "description": "Soft and fluffy cake with Wild Berry on top.",
+      "price": 45.00,
+      "category": 7,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img4vc.jpg"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp126",
+      "name": "Brown Vegan Bread",
+      "description": "Delicious and smooth brown vegan bread with sesame seeds.",
+      "price": 5.00,
+      "category": 8,
+      "rating": 4.6,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img1vb.jpg"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp127",
+      "name": "Crusty Vegan Bread",
+      "description": "Crusty Vegan Bread.",
+      "price": 4.00,
+      "category": 8,
+      "rating": 4.5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img2vb.jpg"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp128",
+      "name": "Vegan Granary Bread",
+      "description": "Vegan Granary Bread.",
+      "price": 6.00,
+      "category": 8,
+      "rating": 4.5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img3vb.jpg"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp129",
+      "name": "Vegan Olive Bread",
+      "description": "Salty olives add a depth of flavor to this rustic bread.",
+      "price": 7.00,
+      "category": 8,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img4vb.jpg"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp130",
+      "name": "Vegan Sun-dried tomato Bread",
+      "description": "Vegan Sun-dried tomato Bread.",
+      "price": 6.50,
+      "category": 8,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "img5vb.jpg"
     }
   }
+
+
 ]  

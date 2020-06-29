@@ -51,16 +51,16 @@
     "pk": 7,
     "model": "products.category",
     "fields": {
-      "name": "cakes",
-      "friendly_name": "Cakes"
+      "name": "vegan_cakes",
+      "friendly_name": "Vegan Cakes"
     }
   },
   {
     "pk": 8,
     "model": "products.category",
     "fields": {
-      "name": "bread",
-      "friendly_name": "Bread"
+      "name": "vegan_bread",
+      "friendly_name": "Vegan Bread"
     }
   }
 ]
