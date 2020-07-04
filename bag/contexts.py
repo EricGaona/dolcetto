@@ -4,6 +4,9 @@ from django.shortcuts import get_object_or_404
 from products.models import Product
 
 def bag_contents(request):
+    """
+    Its purpose is to make this dictionary available to all templates across the entire application
+    """
 
     bag_items = []
     total = 0
