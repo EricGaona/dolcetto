@@ -88,6 +88,89 @@ All my HTML and CSS are valid and checked with the following validators:
 - [HTML Validator](https://validator.w3.org/)
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
+### Manual (logical) testing of all elements and functionality on every page
+
+#### Home Page:
+
+1. Header:
+
+    - Go to the "Home" page from a desktop.
+    - Change the screen size from desktop to tablet to verify that the navigation bar is responsive and switches from in line menu to burger icon dropdown menu at the appropriate place.
+    - Click on the logo in the navigation bar and verify that it links to the home page.
+    - Type a word in the search box and the product containing that word in the name or description will be displayed.    
+    - Click on my account and the register and login options will be displayed.
+    - Click on the icom bad at the top right and verify that it links to the bag page.
+
+2. Navigation bar:    
+
+    - Click on each item in the navigation menu and verify that a group of the second item will be displayed, click on any of them and certify that it is linked to the correct page.
+    
+3. Body page:
+
+    - Click on the (shop now) button and all the products will be displayed.
+
+#### Register Page:
+
+1. Header:
+
+    - Repeat verification steps done for header on Home page.
+
+2. Navigation bar:   
+
+    - Confirm that navbar code is identical on all html pages.
+
+3. Body page:
+
+    - Try to submit the email empty or without an email format and verify that an error message appears.
+    - Try to submit the username empty or less than four characters and verify that an error message appears.
+    - Try to submit the password empty or less than eight characters and verify that an error message appears.
+    - Try to log in without verifying your email address and check that a message appears
+
+#### login Page:
+
+1. Header:
+
+    - Repeat verification steps done for header on Home page.
+
+2. Navigation bar:   
+
+    - Confirm that navbar code is identical on all html pages.
+
+3. Body page:
+
+    - Try to submit the username empty or with a wrong username and verify that an error message appears.
+    - Try to submit the password empty or with a wrong password and verify that an error message appears.
+
+#### My Profile Page:
+
+1. Header:
+
+    - Repeat verification steps done for header on Home page.
+
+2. Navigation bar:   
+
+    - Confirm that navbar code is identical on all html pages.
+
+3. Body page:
+
+    - Try to make a purchase and verify that your delivery information and your purchase information are saved in your profile.
+    - Try to update your delivery information and verify that it has been updated.
+
+#### Checkout Page:
+
+1. Header:
+
+    - Repeat verification steps done for header on Home page.
+
+2. Navigation bar:   
+
+    - Confirm that navbar code is identical on all html pages.
+
+3. Body page:
+
+    - Try to submit the form empty or with wrong values an verify that an error message appears.
+    - Try to complete the order with empty or wrong bank accounts details an verify that an error message appears.
+
 #### Review all functionality and responsiveness:
 
 This website was tested across multiple browsers including Chrome, Opera, Internet Explorer, Firefox and on multiple movie devices including
@@ -103,16 +186,16 @@ iPhone 4, 5, and 7. Also on Samsung and Xaomi to ensure compatibility and respon
   as well I activated Enable Automatic Deploys, so that every time you make a push in to Github it will automatically be changed into heroku too.
 - In the Heroku Settings tab, click on the Reveal Config Vars button to configure environmental variables as follows:
 
-  - AWS_ACCESS_KEY_ID <your secret key>
-  - AWS_SECRET_ACCESS_KEY <your secret key>
-  - DATABASE_URL <your postgres database url>
-  - EMAIL_HOST_PASS <your secret key>
-  - EMAIL_HOST_USER <your email address>
-  - SECRET_KEY <your secret key>
-  - STRIPE_PUBLIC_KEY <your Stripe Public key>
-  - STRIPE_SECRET_KEY <your Stripe Secret key>
-  - STRIPE_WH_SECRET <your Stripe Webhooks key>
-  - USE_AWS <True>
+  - AWS_ACCESS_KEY_ID (your secret key)
+  - AWS_SECRET_ACCESS_KEY (your secret key)
+  - DATABASE_URL (your postgres database url)
+  - EMAIL_HOST_PASS (your secret key)
+  - EMAIL_HOST_USER (your email address)
+  - SECRET_KEY (your secret key)
+  - STRIPE_PUBLIC_KEY (your Stripe Public key)
+  - STRIPE_SECRET_KEY (your Stripe Secret key)
+  - STRIPE_WH_SECRET (your Stripe Webhooks key)
+  - USE_AWS (True)
 
 - I build a bucket in Amazon web service where all the pictures and the static file were hosted.
 - In the Dolcetto settings.py file:
